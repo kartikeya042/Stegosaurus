@@ -3,7 +3,7 @@ import traceback
 import tkinter as tk
 from tkinter import filedialog, messagebox
 
-from Project.Test import (
+from main import (
     generate_rsa_keys,
     rsa_encrypt,
     rsa_decrypt,
